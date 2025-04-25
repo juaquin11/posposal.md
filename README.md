@@ -1,3 +1,4 @@
+
 # proposal.md
 ![titulo](Trabajo practico de Desarrollo de Software)
 
@@ -32,7 +33,4 @@ Link Draw.io: ![link](https://app.diagrams.net/#G1p_tdlo1p8zjpNogMgH1vY6DunqgZMn
 ![titulo](Alcance Adicional Voluntario)
 
 ![image](https://github.com/user-attachments/assets/4696cf48-333a-49dd-a881-bc3e4df16399)
-
-
-
 
